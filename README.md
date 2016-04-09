@@ -1,14 +1,3 @@
-Reproducible research 
-=====================
-
-Reproducible research, which should be a general goal in scientific analysis (Buckheit and
-Donoho 1995; Schwab, Karrenbach, and Claerbout 2000).
-Schwab M, Karrenbach M, Claerbout J (2000). “Making Scientific Computations Reproducible
-
-
-<http://sepwww.stanford.edu/lib/exe/fetch.php?media=sep:research:reproducible:cip.pdf>
-<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.8295&rep=rep1&type=pdf>
-
 Klein Model I
 =============
 
